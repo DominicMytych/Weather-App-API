@@ -11,7 +11,6 @@ Use the Geolocator package to get live location.
 
 #
 
-Use Dart to perform asynchronous tasks.
 Async and await / Futures
 Network with the Dart http package.
 APIs to get real Data
@@ -21,3 +20,10 @@ Handle exceptions in Dart using try/catch/throw.
 Lifecycle of Stateful Widgets and override them.
 Use the Geolocator package to get live location data for both iOS and Android.
 Use the TextField Widget to take user input.
+
+<p>Lista nienumerowana</p>
+<ul>
+<li>Use Dart to perform asynchronous tasks.</li>
+<li>ziemniaki</li>
+<li>psychotropy</li>
+</u>
