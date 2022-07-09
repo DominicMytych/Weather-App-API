@@ -1,7 +1,5 @@
 # Weather App with Api
 
-Use the Geolocator package to get live location.
-
 ⚠️ There is a app preview, please wait for loading ⚠
 
 
